@@ -9,8 +9,8 @@
 1. laravel9_testディレクトリに移動して下記コマンドを実行してください。
 
     ```terminal
-    $ git clone git@github.com:miriwo0104/laravel9_test_docker.git docker
-    $ git clone git@github.com:miriwo0104/laravel9_test_project.git project
+    $ git clone git@github.com:miriwo0104/laravel9_nginx_mysql_docker.git docker
+    $ git clone git@github.com:miriwo0104/laravel9_nginx_mysql_app.git app
     ```
 
 1. laravel9_test/dockerディレクトリに移動して下記コマンドを実行してください。
